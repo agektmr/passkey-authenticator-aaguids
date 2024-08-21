@@ -1,0 +1,13 @@
+{
+  "name": "passkey-authenticator-aaguids",
+  "version": "1.0.0",
+  "description": "This is a **community-driven** list of known passkey provider AAGUIDs to assist with naming passkeys in end user passkey management interfaces (e.g. account settings). **It is not intended to be used for any other purpose** and **_could go away at any time_**.",
+  "main": "aaguid.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/passkeydeveloper/passkey-authenticator-aaguids.git"
+  },
+  "keywords": [
+    "passkeys"
+  ]
+}
